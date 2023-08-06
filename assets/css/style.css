@@ -296,7 +296,7 @@ div#preloader {
 }
 
 .header-bg {
-  background: url(../img/background/page-header.jpg);
+  /* background: url(../img/background/page-header.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -309,7 +309,7 @@ div#preloader {
   left: 0;
   right: 0;
   top: 0;
-  bottom: 0;
+  bottom: 30px;
   background: rgba(0, 0, 0, 0.7);
 }
 
