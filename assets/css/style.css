@@ -220,7 +220,6 @@ div#preloader {
   font-weight: 600;
   margin-bottom: 70px;
   position: relative;
-  text-transform: capitalize;
 }
 
 .section-headline h2::after {
