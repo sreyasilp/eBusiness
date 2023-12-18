@@ -1220,6 +1220,13 @@ div#preloader {
   align-items: center;
 }
 
+/* Add this to your CSS or style tag */
+.contact-form {
+  width: 100%; /* Make sure the form takes the full width of its container */
+  max-width: 900px; /* Adjust the max-width as needed for a wider message box */
+}
+
+
 .pri_table_list li.check {
   font-weight: 600;
 }
