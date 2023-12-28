@@ -9,22 +9,29 @@
 
 <url>
   <loc>https://esquirebc.com/</loc>
-  <lastmod>2023-12-16T11:53:27+00:00</lastmod>
+  <lastmod>2023-12-28T15:39:27+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://esquirebc.com/company-listing</loc>
-  <lastmod>2023-12-16T11:53:27+00:00</lastmod>
+  <lastmod>2023-12-28T15:39:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://esquirebc.com/godowns</loc>
+  <lastmod>2023-12-28T15:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://esquirebc.com/about</loc>
-  <lastmod>2023-12-16T11:53:27+00:00</lastmod>
+  <lastmod>2023-12-28T15:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://esquirebc.com/contact</loc>
-  <lastmod>2023-12-16T11:53:27+00:00</lastmod>
+  <lastmod>2023-12-28T15:39:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
+
 </urlset>
